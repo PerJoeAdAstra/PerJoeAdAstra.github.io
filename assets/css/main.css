@@ -2604,6 +2604,7 @@ input, select, textarea {
 
 			.image.left img, .image.right img {
 				width: 100%;
+				border-radius: 10%;
 			}
 
 		.image.left {
